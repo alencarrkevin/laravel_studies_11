@@ -16,4 +16,4 @@ Este projeto foi desenvolvido para treinar autenticação e autorização no Lar
 
 ## Demonstração do Sistema
 
-![Descrição do GIF](https://raw.githubusercontent.com/alencarrkevin/laravel_studies_11/public/gif.gif)
+![Demonstração do Sistema](https://raw.githubusercontent.com/alencarrkevin/laravel_studies_11/main/public/gif.gif)
